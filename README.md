@@ -1,2 +1,3 @@
 # John-Teye-Lawer-Profile
-Data Analytics Pgae
+Welcome to my Data Analytics Page
+
