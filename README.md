@@ -1,7 +1,7 @@
 # Welcome to JTL Analytics 
 My name is **John Lawer** [Send a mail](johnkwao265@gamil.com), a graduate of the University of Ghana, Legon. I studied Mathematical science with a focus on Statistics.
 
-#Contact
+# Contact
  0203638985   GA-082-516. Lokko Street, Adjacent to Ry-mix Pub.                    P.O. Box GP2610, GT Accra, Ghana  
 
 # PROFILE
