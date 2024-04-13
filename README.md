@@ -1,4 +1,4 @@
-# Welcome to JTL Analytics 
+# AKWAABA
 My name is **John Lawer** [Send a mail](johnkwao265@gamil.com), a graduate of the University of Ghana, Legon. I studied Mathematical science with a focus on Statistics.
 
 # Contact
