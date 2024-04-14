@@ -60,7 +60,11 @@ Data analyst with a practical understanding of business operations and the abili
 > - Microsoft Office Suite.        
 > - SQL, R, and Python programming for data analysis.    
 > - Power BI for data visualization. 
-> - Surveytogo for data collection. 
+> - Surveytogo for data collection.
+
+<div>
+  <img src="C:\Users\Georgina\Downloads\4375050_logo_python_icon.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </div>
 
 # REFEREE
    
