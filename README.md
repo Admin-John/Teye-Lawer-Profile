@@ -1,5 +1,5 @@
 # AKWAABA
-My name is **John Lawer** [Send a mail](johnkwao265@gamil.com), a graduate of the University of Ghana, Legon. I studied Mathematical science with a focus on Statistics.
+Hello Recruiter!
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/john-teye-lawer-b94184187/)">
