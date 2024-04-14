@@ -14,10 +14,11 @@ Data analyst with a practical understanding of business operations and the abili
 
 # EDUCATION      
   
-> - **Coursera – IBM                   -          Data Analyst Professional Certificate            -    Jan. 2024 – April 2024**
-> - **University of Ghana              -         BSc. Mathematical Science, Statistics Major      -     Aug. 2018 – Sep. 2022**   
-> - **Ghana Senior High School         -        Science                                          -     Aug. 2012 - June 2015**      
-   
+> - **Coursera – IBM                   -          Data Analyst Professional Certificate           ** 
+> - **University of Ghana              -         BSc. Mathematical Science, Statistics Major      **   
 
 
-## Project 1 - [Prediction of Ghana Inflation from Jan-2021 to Dec-2023](https://github.com/Admin-John/Statistics_Dev/blob/main/SN%20%26%20TIME%20SERIES%20INFLATION%20FORECAST%20.py)
+# COMPLETED #PROJECTS  
+
+**Python**
+> - [Prediction of Ghana Inflation from Jan-2021 to Dec-2023](https://github.com/Admin-John/Statistics_Dev/blob/main/SN%20%26%20TIME%20SERIES%20INFLATION%20FORECAST%20.py)
