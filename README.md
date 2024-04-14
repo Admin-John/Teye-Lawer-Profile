@@ -1,5 +1,4 @@
-# AKWAABA
-Hello Recruiter!
+# AKWAABA Recruiter!
 
 <div id="badges">
   <a href="(https://www.linkedin.com/in/john-teye-lawer-b94184187/)">
