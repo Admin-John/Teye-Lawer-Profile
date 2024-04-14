@@ -63,7 +63,7 @@ Data analyst with a practical understanding of business operations and the abili
 > - Surveytogo for data collection.
 
 <div>
-  <img src="C:\Users\Georgina\Downloads\4375050_logo_python_icon.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="(https://github.com/Admin-John/Profile/blob/main/Lytics.jpg)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
 
 # REFEREE
