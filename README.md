@@ -23,13 +23,13 @@ Data analyst with a practical understanding of business operations and the abili
     <th>School</th>
     <th>Programme</th>
   </tr>
-> -  <tr>
-    <td>Row 1, Column 1</td>
-    <td>Row 1, Column 2</td>
+ <tr>
+    <td>Coursera – IBM </td>
+    <td>Data Analyst Professional Certificate</td>
   </tr>
-> -  <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+ <tr>
+    <td>University of Ghana</td>
+    <td>BSc. Mathematical Science, Statistics Major</td>
   </tr>
 </table>
 
