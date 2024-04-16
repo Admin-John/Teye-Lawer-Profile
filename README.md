@@ -16,7 +16,22 @@ Data analyst with a practical understanding of business operations and the abili
 ### EDUCATION      
   
 > - Coursera – IBM                   -          Data Analyst Professional Certificate         
-> - University of Ghana              -         BSc. Mathematical Science, Statistics Major      
+> - University of Ghana              -         BSc. Mathematical Science, Statistics Major
+
+  <table>
+  <tr>
+    <th>School</th>
+    <th>Programme</th>
+  </tr>
+  <tr>
+    <td>Row 1, Column 1</td>
+    <td>Row 1, Column 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Column 1</td>
+    <td>Row 2, Column 2</td>
+  </tr>
+</table>
 
 
 ### COMPLETED  PROJECTS  
