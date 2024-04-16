@@ -42,8 +42,6 @@ Data analyst with a practical understanding of business operations and the abili
 **Rstudio**
 <a href="https://www.r-project.org.org"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Rlogo.png" alt="R" width="40" height="40"/> </a>
 
-<img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Rlogo.png" alt="Nelson Mandela Tribute Illustration">
-
 **Power BI**
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/powerbi%20logo%201.png" alt="Power BI" width="40" height="40"/> </a>
 
