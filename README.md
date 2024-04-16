@@ -1,4 +1,5 @@
 # AKWAABA 🤝 Recruiter!
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <div id="badges">
   <a href="(https://www.linkedin.com/in/john-teye-lawer-b94184187/)">
