@@ -26,7 +26,7 @@ Data analyst with a practical understanding of business operations and the abili
 
 > - [Two Way Anova test](https://github.com/Admin-John/Profile/blob/main/Two%20Way%20Anova%20-%20Jupyter%20Notebook.pdf)
 
-<a href="https://www.r-project.org.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="R" width="40" height="40"/> </a>
+<a href="https://www.r-project.org.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Rlogo.png" alt="R" width="40" height="40"/> </a>
 
 <h3 align="left">LANGUAGE AND TOOLS</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
