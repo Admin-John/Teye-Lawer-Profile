@@ -87,7 +87,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: blue;
   color: #fff;
   padding: 1rem;
 }
