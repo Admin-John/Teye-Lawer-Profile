@@ -20,8 +20,8 @@ Data analyst with a practical understanding of business operations and the abili
 
 <table>
   <tr>
-    <th>School</th>
-    <th>Programme</th>
+    <the><strong>School</strong></th>
+    <the><strong>Programme</strong></th>
   </tr>
  <tr>
     <td>Coursera – IBM </td>
