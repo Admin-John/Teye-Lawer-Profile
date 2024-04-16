@@ -46,7 +46,7 @@ Data analyst with a practical understanding of business operations and the abili
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/powerbi%20logo%201.png" alt="Power BI" width="40" height="40"/> </a>
 
 **IBM Cognos Analytics**
-<a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Cog.jpg" alt="Cognos Analytics" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> <img src="Cog.jpg" alt="Cognos Analytics" width="40" height="40"/> </a>
 
 **Microsoft Excel**
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40"/> </a>
