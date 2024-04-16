@@ -40,7 +40,7 @@ Data analyst with a practical understanding of business operations and the abili
 > - [Two Way Anova test](https://github.com/Admin-John/Profile/blob/main/Two%20Way%20Anova%20-%20Jupyter%20Notebook.pdf)
 
 **Rstudio**
-<a href="https://www.r-project.org.org"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/Rlogo.png" alt="R" width="40" height="40"/> </a>
+<a href="https://www.r-project.org.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/768px-RStudio_logo_flat.svg.png" alt="R" width="40" height="40"/> </a>
 
 **Power BI**
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"> <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/powerbi%20logo%201.png" alt="Power BI" width="40" height="40"/> </a>
