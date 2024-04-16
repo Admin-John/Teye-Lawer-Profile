@@ -1,3 +1,7 @@
+<div align='center'>
+<img src=https://photos.google.com/photo/AF1QipPzZJX9b18zVFfoSIgQopjZSfbkN7E3uF8_55ZL alt="logo" width= height= />
+</div>
+
 # AKWAABA 🤝 Recruiter!
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
