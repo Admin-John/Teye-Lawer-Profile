@@ -9,8 +9,11 @@
   </a>
 </div>
 ### PROFILE
+
 Data analyst with a practical understanding of business operations and the ability to perform causal analysis to effectively resolve bottlenecks. Apt to employ my technical expertise and business analysis knowledge to streamline business procedures and ensure they align with the organization's objectives. With a determination to apply an in-depth understanding of statistical demographics, biometric research, market research, and forecast analysis to enhance business sustainability and continuity in fields such as banking, FMCG, International NGO, and technology.
-### EDUCATION      
+
+### EDUCATION    
+
 <table>
   <tr>
     <th><strong>School</strong></th>
