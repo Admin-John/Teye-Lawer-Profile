@@ -19,7 +19,7 @@ Data analyst with a practical understanding of business operations and the abili
   <p><strong>EDUCATION</strong></p>
 </center>
 
-<table>
+<center><table>
   <tr>
     <th><strong>School</strong></th>
     <th><strong>Programme</strong></th>
@@ -32,7 +32,7 @@ Data analyst with a practical understanding of business operations and the abili
     <td>University of Ghana</td>
     <td>BSc. Mathematical Science, Statistics Major</td>
   </tr>
-</table>
+</table></center>
 
 <center>
   <p><strong>COMPLETED  PROJECTS</strong></p>
@@ -57,34 +57,24 @@ Data analyst with a practical understanding of business operations and the abili
 <center>
   <p><strong>Key Takeaway</strong></p>
 </center>
-
-
-
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
-
-
-
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 > - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
 <center>
   <p><strong>Takeaway</strong></p>
 </center>
 
-
-
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
-
-
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 **Microsoft Excel**
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a>
