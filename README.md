@@ -9,11 +9,15 @@
   </a>
 </div>
 
-### PROFILE
+<center>
+  <p><strong>PROFILE</strong></p>
+</center>
 
 Data analyst with a practical understanding of business operations and the ability to perform causal analysis to effectively resolve bottlenecks. Apt to employ my technical expertise and business analysis knowledge to streamline business procedures and ensure they align with the organization's objectives. With a determination to apply an in-depth understanding of statistical demographics, biometric research, market research, and forecast analysis to enhance business sustainability and continuity in fields such as banking, FMCG, International NGO, and technology.
 
-### EDUCATION    
+<center>
+  <p><strong>EDUCATION</strong></p>
+</center>
 
 <table>
   <tr>
@@ -30,7 +34,9 @@ Data analyst with a practical understanding of business operations and the abili
   </tr>
 </table>
 
-### COMPLETED  PROJECTS  
+<center>
+  <p><strong>COMPLETED  PROJECTS</strong></p>
+</center>
 
 **Python** <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -48,54 +54,70 @@ Data analyst with a practical understanding of business operations and the abili
 <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> <img src="https://newintelligence.ca/wp-content/uploads/2020/06/IBM-Cognos-analytics-300x153.png" alt="Cognos Analytics" width="40" height="40"/> </a>
 
 > - [Dashboard-1](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
-
 <center>
-  <p><strong>Recommendation</strong></p>
+  <p><strong>Key Takeaway</strong></p>
 </center>
 
 
+
+
+
 <center>
-  <p><strong>Insights</strong></p>
+  <p><strong>Recommendations</strong></p>
 </center>
+
+
+
 
 
 > - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
-
 <center>
-  <p><strong>Recommendation</strong></p>
+  <p><strong>Takeaway</strong></p>
 </center>
 
 
+
+
+
 <center>
-  <p><strong>Insights</strong></p>
+  <p><strong>Recommendations</strong></p>
 </center>
+
+
 
 
 **Microsoft Excel**
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a>
 
 > - [Dashboard-1](https://github.com/Admin-John/Statistics_Dev/blob/main/Excel1.png?raw=true)
-
 <center>
-  <p><strong>Recommendation</strong></p>
+  <p><strong>Takeaway</strong></p>
 </center>
 
 
+
 <center>
-  <p><strong>Insights</strong></p>
+  <p><strong>Recommendations</strong></p>
 </center>
+
+
+
 
 
 > - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/Excel2.png?raw=true)
-
 <center>
-  <p><strong>Recommendation</strong></p>
+  <p><strong>Takeaway</strong></p>
 </center>
 
 
+
+
 <center>
-  <p><strong>Insights</strong></p>
+  <p><strong>Recommendations</strong></p>
 </center>
+
+
+
 
 <h3 align="centre">LANGUAGE AND TOOLS</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
