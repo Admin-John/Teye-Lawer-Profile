@@ -47,9 +47,8 @@ Data analyst with a practical understanding of business operations and the abili
 **IBM Cognos Analytics**
 <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> <img src="https://newintelligence.ca/wp-content/uploads/2020/06/IBM-Cognos-analytics-300x153.png" alt="Cognos Analytics" width="40" height="40"/> </a>
 
-> - <img src="https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true" alt="Dashboard-1" width="700" height="300"/>
-> - <img src="
-https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true" alt="Dashboard-2" width="700" height="300"/>
+> - [Dashboard-1](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
+> - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
 
 **Microsoft Excel**
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a>
