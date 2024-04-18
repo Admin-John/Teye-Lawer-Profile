@@ -78,6 +78,9 @@ Data analyst with a practical understanding of business operations and the abili
 
 <h5 align="centre">Insights</h5>
 
+<center>
+  <p>This is a centered paragraph using the deprecated <code>center</code> tag.</p>
+</center>
 
 <h5 align="centre">Recommendation</h5>
 
