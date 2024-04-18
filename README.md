@@ -57,11 +57,13 @@ Data analyst with a practical understanding of business operations and the abili
 <center>
   <p><strong>Key Takeaway</strong></p>
 </center>
+
 The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
+
 The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 > - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
@@ -74,6 +76,7 @@ The Markdown Guide is a free and open-source reference guide that explains how t
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
+
 The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 **Microsoft Excel**
@@ -84,14 +87,14 @@ The Markdown Guide is a free and open-source reference guide that explains how t
   <p><strong>Takeaway</strong></p>
 </center>
 
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
 
-
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 
 > - [Dashboard-2](https://github.com/Admin-John/Statistics_Dev/blob/main/Excel2.png?raw=true)
@@ -99,14 +102,14 @@ The Markdown Guide is a free and open-source reference guide that explains how t
   <p><strong>Takeaway</strong></p>
 </center>
 
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 
 <center>
   <p><strong>Recommendations</strong></p>
 </center>
 
-
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
 
 
 <h3 align="centre">LANGUAGE AND TOOLS</h3>
