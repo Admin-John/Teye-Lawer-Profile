@@ -1,6 +1,5 @@
 # AKWAABA🤝 Recruiter! :)
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/john-teye-lawer-b94184187/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,12 +8,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 ### PROFILE
 Data analyst with a practical understanding of business operations and the ability to perform causal analysis to effectively resolve bottlenecks. Apt to employ my technical expertise and business analysis knowledge to streamline business procedures and ensure they align with the organization's objectives. With a determination to apply an in-depth understanding of statistical demographics, biometric research, market research, and forecast analysis to enhance business sustainability and continuity in fields such as banking, FMCG, International NGO, and technology.
-
 ### EDUCATION      
-
 <table>
   <tr>
     <th><strong>School</strong></th>
@@ -29,7 +25,6 @@ Data analyst with a practical understanding of business operations and the abili
     <td>BSc. Mathematical Science, Statistics Major</td>
   </tr>
 </table>
-
 
 ### COMPLETED  PROJECTS  
 
