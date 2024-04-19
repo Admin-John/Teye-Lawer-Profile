@@ -1,10 +1,10 @@
 # AKWAABA🤝 Recruiter! :)
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div id="badges">
-  <a align="left" href="https://www.linkedin.com/in/john-teye-lawer-b94184187/">
+  <a href="https://www.linkedin.com/in/john-teye-lawer-b94184187/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a align="left "href="https://twitter.com/John_Teye_Lawer">
+  <a href="https://twitter.com/John_Teye_Lawer">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -58,7 +58,7 @@ Data analyst with a practical understanding of business operations and the abili
   <p><strong>Key Takeaway</strong></p>
 </center>
 
-The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document - Please wait for proper insights
 
 <center>
   <p><strong>Recommendations</strong></p>
