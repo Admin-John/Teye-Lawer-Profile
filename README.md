@@ -41,7 +41,7 @@ Data analyst with a practical understanding of business operations and the abili
 
 **Python** <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-> - [Prediction of Ghana Inflation from Jan-2021 to Dec-2023]((https://github.com/Admin-John/Statistics_Dev/blob/main/SN%20%26%20TIME%20SERIES%20INFLATION%20FORECAST%20-%20Jupyter%20Notebook.pdf))
+> - [Prediction of Ghana Inflation from Jan-2021 to Dec-2023](https://github.com/Admin-John/Statistics_Dev/blob/main/SN%20%26%20TIME%20SERIES%20INFLATION%20FORECAST%20-%20Jupyter%20Notebook.pdf)
 
 > - [Two Way Anova test](https://github.com/Admin-John/Profile/blob/main/Two%20Way%20Anova%20-%20Jupyter%20Notebook.pdf)
 
