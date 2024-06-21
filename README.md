@@ -36,7 +36,8 @@ in the area of work, where I am eager to collaborate with the members to brainst
 **IBM Cognos Analytics**
 <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> <img src="https://newintelligence.ca/wp-content/uploads/2020/06/IBM-Cognos-analytics-300x153.png" alt="Cognos Analytics" width="40" height="40"/> </a>
 
-> - [Dashboard-1](https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true)
+> - [Dashboard-1]
+<img src="https://github.com/Admin-John/Statistics_Dev/blob/main/cognos2.png?raw=true">
 <center>
   <p><strong>Key Takeaway</strong></p>
 </center>
