@@ -14,26 +14,8 @@
   <p><strong>PROFILE</strong></p>
 </center>
 
-Data analyst with a practical understanding of business operations and the ability to perform causal analysis to effectively resolve bottlenecks. Apt to employ my technical expertise and business analysis knowledge to streamline business procedures and ensure they align with the organization's objectives. With a determination to apply an in-depth understanding of statistical demographics, biometric research, market research, and forecast analysis to enhance business sustainability and continuity in fields such as banking, FMCG, International NGO, and technology.
-
-<center>
-  <p><strong>EDUCATION</strong></p>
-</center>
-
-<center><table>
-  <tr>
-    <th><strong>School</strong></th>
-    <th><strong>Programme</strong></th>
-  </tr>
- <tr>
-    <td>Coursera – IBM </td>
-    <td>Data Analyst Professional Certificate</td>
-  </tr>
- <tr>
-    <td>University of Ghana</td>
-    <td>BSc. Mathematical Science, Statistics Major</td>
-  </tr>
-</table></center>
+I am a self-determined individual who learns about new technological tools to aid business operations. I'm passionate about making impact
+in the area of work, where I am eager to collaborate with the members to brainstorm innovative solutions that effectively resolve business uncertainty.
 
 <center>
   <p><strong>COMPLETED  PROJECTS</strong></p>
